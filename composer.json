@@ -40,7 +40,7 @@
     },
     "replace": {
         "mdanter/ecc": "*"
-    }
+    },
     "autoload-dev": {
         "psr-4": {
             "Mdanter\\Ecc\\Tests\\": "tests/unit",
