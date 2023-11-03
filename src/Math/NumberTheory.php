@@ -44,6 +44,10 @@ class NumberTheory
      */
     private $adapter;
 
+    protected $zero;
+    protected $one;
+    protected $two;
+
     /**
      * @param GmpMathInterface $adapter
      */
